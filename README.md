@@ -1,7 +1,7 @@
 # -1Q.HackerRank-Python-2023
 📝 Code Line 1: This line of code is a Python statement that prints the string "Hello, World!" 
 to the standard output (usually the console or terminal).
-"D:\HACKER RANK\1\Screenshot 2023-10-01 065258.png"
+
 📝 Code Line 2: This line of code demonstrates how to store a string, 
 "Hello, World!", in a variable named my_string.
 📝 Code Line 3: This line of code prints the value stored in the my_string variable 
