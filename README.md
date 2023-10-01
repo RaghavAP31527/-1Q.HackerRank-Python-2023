@@ -7,8 +7,8 @@ to the standard output (usually the console).
 "Hello, World!", in a variable named my_string.
 
 📝 Code Line 3: This line of code prints the value stored in the my_string variable 
-to the standard output. As a result, it will also display "Hello, World!" on the screen.![Screenshot 2023-10-01 065342](https://github.com/RaghavAP31527/-1Q.HackerRank-Python-2023/assets/139637644/0fe0a75b-02e7-435c-a311-43bbf88ac4c8)
-
+to the standard output. ![Screenshot 2023-10-01 065342](https://github.com/RaghavAP31527/-1Q.HackerRank-Python-2023/assets/139637644/0fe0a75b-02e7-435c-a311-43bbf88ac4c8)
+As a result, it will also display "Hello, World!" on the screen.
 
 🎯 Output Format: The program's goal is to print the string "Hello, World!" to the standard output.
 
