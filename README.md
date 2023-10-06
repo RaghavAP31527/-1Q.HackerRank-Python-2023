@@ -1,4 +1,5 @@
-# -1Q.HackerRank-Python-2023
+Hello world Hacker rank python 2023
+
 📝 Code Line 1: This line of code is a Python statement that prints the string "Hello, World!" 
 to the standard output (usually the console).
 ![Screenshot 2023-10-01 065258](https://github.com/RaghavAP31527/-1Q.HackerRank-Python-2023/assets/139637644/b777d37f-4fde-4d03-a7a2-06221a1d7809)
